@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/about": "pages/about.html",
+  "/bloom": "pages/bloom.html",
+  "/choose-guide": "pages/choose-guide.html",
+  "/": "pages/index.html",
+  "/love-bloom": "pages/love-bloom.html",
+  "/practiced-cbt": "pages/practiced-cbt.html",
+  "/premium": "pages/premium.html",
+  "/program-ready": "pages/program-ready.html",
+  "/start-trial": "pages/start-trial.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
